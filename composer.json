@@ -1,0 +1,13 @@
+{
+    "name": "adagi/adagi-web-api",
+    "require": {
+        "entomb/slim-json-api": "~1.1",
+        "joelalejandro/medoo-transactional": "v0.9.6.2"
+    },
+    "authors": [
+        {
+            "name": "Joel Alejandro Villarreal Bertoldi",
+            "email": "hola@joelalejandro.com"
+        }
+    ]
+}
